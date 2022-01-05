@@ -7,8 +7,7 @@ public class Hello : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        int x = 1;
-        print(x + 7);
+        print("Starting this game");
     }
 
     // Update is called once per frame
